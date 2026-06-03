@@ -2,7 +2,7 @@ name: Node.js CI with Cache
 
 on:
   push: 
-  pull request:
+  pull_request:
 
   jobs:
     test-with-cache:
